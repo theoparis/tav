@@ -1,4 +1,4 @@
-# tav
+# Theo's Awesome VCS
 
 `tav` is an experimental VCS wrapper inspired by `jj`.
 
